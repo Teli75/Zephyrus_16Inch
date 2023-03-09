@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Studio_control_flow/1.0.0": {
+        "runtime": {
+          "Studio_control_flow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Studio_control_flow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

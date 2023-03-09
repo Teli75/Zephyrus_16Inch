@@ -1,0 +1,15 @@
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\bin\Debug\net6.0\Studio_control_flow.exe
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\bin\Debug\net6.0\Studio_control_flow.deps.json
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\bin\Debug\net6.0\Studio_control_flow.runtimeconfig.json
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\bin\Debug\net6.0\Studio_control_flow.dll
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\bin\Debug\net6.0\Studio_control_flow.pdb
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\Studio_control_flow.csproj.AssemblyReference.cache
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\Studio_control_flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\Studio_control_flow.AssemblyInfoInputs.cache
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\Studio_control_flow.AssemblyInfo.cs
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\Studio_control_flow.csproj.CoreCompileInputs.cache
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\Studio_control_flow.dll
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\refint\Studio_control_flow.dll
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\Studio_control_flow.pdb
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\Studio_control_flow.genruntimeconfig.cache
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio_control_flow\Studio_control_flow\obj\Debug\net6.0\ref\Studio_control_flow.dll

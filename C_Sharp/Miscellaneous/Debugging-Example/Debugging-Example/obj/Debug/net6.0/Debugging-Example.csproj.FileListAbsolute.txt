@@ -1,0 +1,15 @@
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\bin\Debug\net6.0\Debugging-Example.exe
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\bin\Debug\net6.0\Debugging-Example.deps.json
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\bin\Debug\net6.0\Debugging-Example.runtimeconfig.json
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\bin\Debug\net6.0\Debugging-Example.dll
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\bin\Debug\net6.0\Debugging-Example.pdb
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\Debugging-Example.csproj.AssemblyReference.cache
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\Debugging-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\Debugging-Example.AssemblyInfoInputs.cache
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\Debugging-Example.AssemblyInfo.cs
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\Debugging-Example.csproj.CoreCompileInputs.cache
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\Debugging-Example.dll
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\refint\Debugging-Example.dll
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\Debugging-Example.pdb
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\Debugging-Example.genruntimeconfig.cache
+C:\Users\7teli\OneDrive\Desktop\LaunchCode\Debugging-Example\Debugging-Example\obj\Debug\net6.0\ref\Debugging-Example.dll

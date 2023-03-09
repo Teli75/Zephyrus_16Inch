@@ -1,0 +1,5 @@
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio-Classes-one\obj\Debug\net6.0\Studio-Classes-one.csproj.AssemblyReference.cache
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio-Classes-one\obj\Debug\net6.0\Studio-Classes-one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio-Classes-one\obj\Debug\net6.0\Studio-Classes-one.AssemblyInfoInputs.cache
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio-Classes-one\obj\Debug\net6.0\Studio-Classes-one.AssemblyInfo.cs
+C:\Users\7teli\Desktop\LaunchCode_Solved_Issue\C_Sharp\control_flow_and_collections\Studio\Studio-Classes-one\obj\Debug\net6.0\Studio-Classes-one.csproj.CoreCompileInputs.cache
