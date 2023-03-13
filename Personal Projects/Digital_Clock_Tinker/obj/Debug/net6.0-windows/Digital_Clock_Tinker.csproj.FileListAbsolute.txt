@@ -1,0 +1,17 @@
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\bin\Debug\net6.0-windows\Digital_Clock_Tinker.exe
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\bin\Debug\net6.0-windows\Digital_Clock_Tinker.deps.json
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\bin\Debug\net6.0-windows\Digital_Clock_Tinker.runtimeconfig.json
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\bin\Debug\net6.0-windows\Digital_Clock_Tinker.dll
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\bin\Debug\net6.0-windows\Digital_Clock_Tinker.pdb
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.csproj.AssemblyReference.cache
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.DigitalClock.resources
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.csproj.GenerateResource.cache
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.AssemblyInfoInputs.cache
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.AssemblyInfo.cs
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.csproj.CoreCompileInputs.cache
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.dll
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\refint\Digital_Clock_Tinker.dll
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.pdb
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\Digital_Clock_Tinker.genruntimeconfig.cache
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\Digital_Clock_Tinker\obj\Debug\net6.0-windows\ref\Digital_Clock_Tinker.dll

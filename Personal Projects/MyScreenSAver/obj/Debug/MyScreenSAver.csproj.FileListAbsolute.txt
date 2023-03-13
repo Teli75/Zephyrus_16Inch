@@ -1,0 +1,11 @@
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\bin\Debug\MyScreenSAver.exe.config
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\bin\Debug\MyScreenSAver.exe
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\bin\Debug\MyScreenSAver.pdb
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\obj\Debug\MyScreenSAver.csproj.AssemblyReference.cache
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\obj\Debug\MyScreenSAver.csproj.SuggestedBindingRedirects.cache
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\obj\Debug\MyScreenSAver.frmScSaver.resources
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\obj\Debug\MyScreenSAver.Properties.Resources.resources
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\obj\Debug\MyScreenSAver.csproj.GenerateResource.cache
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\obj\Debug\MyScreenSAver.csproj.CoreCompileInputs.cache
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\obj\Debug\MyScreenSAver.exe
+C:\Users\7teli\Desktop\LaunchCode\Personal Projects\MyScreenSAver\obj\Debug\MyScreenSAver.pdb
